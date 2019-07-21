@@ -1,2 +1,0 @@
-# triaccion
-Bienvenida
